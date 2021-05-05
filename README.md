@@ -8,7 +8,7 @@
 
 Add code in your code:
 
-String languageToLoad  = "si";                                          // your language
+String languageToLoad  = "si"; // your language
 Locale locale = new Locale(languageToLoad);
 Locale.setDefault(locale);
 Configuration config = new Configuration();
