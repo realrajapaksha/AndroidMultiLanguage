@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Language Change App</string>
+    <string name="action_settings">අඩු</string>
+    <string name="easy_app">ලෙසි</string>
+    <string name="next_page">ඉලග පිටුව</string>
+    <string name="second_page_message">මසේ ජ්</string>
+    <string name="title_activity_second">ඩෙක</string>
+</resources>
