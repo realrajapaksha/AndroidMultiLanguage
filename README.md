@@ -8,15 +8,20 @@
 
 Add code in your code:
 
-String languageToLoad  = "si"; // your language
+String languageToLoad  = "si";
+
 Locale locale = new Locale(languageToLoad);
+
 Locale.setDefault(locale);
+
 Configuration config = new Configuration();
+
 config.locale = locale;
+
 getBaseContext().getResources().updateConfiguration(config,
                 getBaseContext().getResources().getDisplayMetrics());
 
-this.setContentView(R.layout.activity_main);                            // changing activity
+this.setContentView(R.layout.activity_main);
 
 
 
