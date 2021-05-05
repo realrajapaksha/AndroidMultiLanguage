@@ -1,4 +1,4 @@
-# AndroidMultiLanguage
+# Android Multi Language App
 
 1. Create String Resources file using default language.
 2. Right Click on String file and select "Open Translations Editor".
